@@ -10,7 +10,6 @@ void TrimCandidateSet(int MaxCandidates)
     Node *From;
     Candidate *NFrom;
     int Count;
-
     From = FirstNode;
     do {
         Count = 0;
